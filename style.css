@@ -1,0 +1,28 @@
+h1{
+	color:white;
+	font-size: 60px;
+	scroll-padding: 10px;
+}
+p{
+	font-family: Consolas;
+	color:white;
+	font-size: 30px;
+
+}
+
+body{
+	margin:0px;
+	
+	background-color:#dc8eb8;
+}
+#header{
+	height:120px;
+	background:#ffd1f7;
+}
+
+div{
+	text-align: center;
+}
+u{
+	text-decoration-color: white;
+}
